@@ -1,7 +1,7 @@
 // 1,导入文件模块
-const { rejects } = require('assert')
+//const { rejects } = require('assert')
 var fs = require('fs')
-const { resolve } = require('path')
+    //const { resolve } = require('path')
     // node 读写文件有同步和异步的接口, 默认为异步
     // fd 打开的文件窗口，是一个标识
     // var fd = fs.openSync('hello.txt', 'r')
